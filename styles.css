@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.purple{
+	color: #561b8b;
+	text-decoration: underline;
+    text-decoration-color: #561b8b;
+}
+.blue{
+	color: blue;
+}
+body{
+	padding-left: 30px;
+}
